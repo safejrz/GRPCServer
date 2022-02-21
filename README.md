@@ -1,2 +1,2 @@
 # gRPCServer
-Test how to send a DataTable from the server (Service)
+Test how to send a DataTable from the gRPC service (Server)
