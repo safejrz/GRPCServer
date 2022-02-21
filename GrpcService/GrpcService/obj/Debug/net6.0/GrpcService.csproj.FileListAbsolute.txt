@@ -13,7 +13,6 @@ C:\GitHub\gRPCServer\GrpcService\GrpcService\bin\Debug\net6.0\Grpc.Core.Api.dll
 C:\GitHub\gRPCServer\GrpcService\GrpcService\bin\Debug\net6.0\Grpc.Net.Client.dll
 C:\GitHub\gRPCServer\GrpcService\GrpcService\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
 C:\GitHub\gRPCServer\GrpcService\GrpcService\bin\Debug\net6.0\Grpc.Net.Common.dll
-C:\GitHub\gRPCServer\GrpcService\GrpcService\obj\Debug\net6.0\GrpcService.csproj.AssemblyReference.cache
 C:\GitHub\gRPCServer\GrpcService\GrpcService\obj\Debug\net6.0\GrpcService.GeneratedMSBuildEditorConfig.editorconfig
 C:\GitHub\gRPCServer\GrpcService\GrpcService\obj\Debug\net6.0\GrpcService.AssemblyInfoInputs.cache
 C:\GitHub\gRPCServer\GrpcService\GrpcService\obj\Debug\net6.0\GrpcService.AssemblyInfo.cs
